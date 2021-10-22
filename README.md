@@ -1,0 +1,4 @@
+- Hello, I am Bifftanner!
+- I am a new coder and as of 10/21/21 I am leaning python
+- I hope to become a "Good-boy hacker" aka white hat hacker when I grow up
+- Enjoy my projects!
